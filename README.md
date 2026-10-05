@@ -15,6 +15,10 @@ Version 12 is archived at https://doi.org/10.5281/zenodo.23087515. Cite that ver
 
 > Yoncón Changkuón, C. A. (2026). *AgroIQ Reference Architecture: Technical Record*, version 12. https://doi.org/10.5281/zenodo.23087515
 
+## Related writing
+
+- "Seven years building a soil sensing network that a small farm could actually afford", Hackster.io, 5 October 2026: https://www.hackster.io/carlos-yoncon/soil-sensing-network-for-small-farms-d77ec6. What broke during development, what the node costs, and what is still open.
+
 ## License
 
 Everything in this repository is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Anyone may build, adapt and deploy the architecture, and publish their own version. Attribution is the only condition. The scope of publication is stated at https://agroiq.metricas.net/license/.
